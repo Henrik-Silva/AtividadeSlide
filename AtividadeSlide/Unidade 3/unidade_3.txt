@@ -1,0 +1,18 @@
+Questão 1: Quais são os benefícios de se criar um diagrama de classes?
+Resposta: 
+
+        • Ilustrar modelos de dados para sistemas de informação, não importa quão 		simples
+	ou complexo seja.
+	• Entender melhor a visão geral dos esquemas de uma aplicação.
+	• Expressar visualmente as necessidades específicas de um sistema e divulgar 	essas
+	informações por toda a empresa.
+	• Criar gráficos detalhados que destacam qualquer código específico 		necessário para
+	ser programado e implementado na estrutura descrita.
+	• Fornecer uma descrição independente de implementação de tipos utilizados 		em um
+	sistema e passados posteriormente entre seus componentes.
+
+Questão 2: O que é Associação, Agregação, Composição e Generalização?
+Resposta: 
+
+    	Um array é um conjunto de elementos de um mesmo tipo de dados onde cada 		elemento do conjunto é acessado pela posição no array que é dada através de 		um índice (uma sequência de números inteiros). Um array de uma dimensão é 		também conhecido como vetor, e, um array de mais de uma dimensão é conhecido 	como uma matriz. A implementação de um array em C# é feita usando colchetes 		[] após o tipo de dados e os elementos do 
+    	array são acessados através de um índice que começa em 0.
